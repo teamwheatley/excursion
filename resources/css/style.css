@@ -3,3 +3,53 @@ html {
 	color: #ffffff;
 	background-color: #000000
 }
+
+body {
+	text-align: center;
+}
+
+h1 {
+	font-weight: normal;
+	font-size: 50px;
+	text-align: center;
+}
+
+#comingsoon {
+	text-align: center;
+}
+
+#comingsoon a {
+	color: aquamarine;
+	font-size: 16px;
+}
+
+.video {
+	text-align: center;
+	background-color: #000000;
+}
+
+h2 {
+	font-weight: 300;
+	font-size: 42px;
+	text-align: center;
+}
+
+p {
+	font-size: 21px;
+	color: gray;
+	text-align: center;
+}
+
+.photo {
+	text-align: center;
+}
+
+#phone {
+	margin-top: 20px;
+}
+
+footer p {
+	text-align: right;
+	color: gray;
+}
+
